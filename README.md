@@ -1,1 +1,5 @@
 # mc-exercise
+## adding some lines to make Conflict 
+```
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut non porttitor est. Aliquam dignissim convallis nisl, at ornare massa sodales placerat. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Aenean feugiat semper nibh nec rhoncus. Vestibulum condimentum, lacus at tempus sodales, ante felis condimentum nisl, nec semper dolor neque vel dolor. Donec aliquam ut ante ut venenatis. In rutrum nunc vitae urna consectetur blandit. Aenean fringilla odio quis elit bibendum, quis faucibus leo dignissim. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus blandit hendrerit quam. Ut a magna sagittis, vehicula augue a, porta libero. Praesent varius, dolor vel vehicula condimentum, purus est dictum ligula, eu lacinia libero eros eu arcu. Duis eget elit auctor, tincidunt arcu sit amet, auctor magna. Proin id nisi porta, hendrerit arcu in, volutpat lorem. Nam ac tortor mollis, porta nibh a, rhoncus arcu.
+```
