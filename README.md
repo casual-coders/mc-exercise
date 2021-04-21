@@ -1,3 +1,6 @@
+
+# humam mkhzoumi
+
 # mc-exercise
 
 ## adding some lines to make Conflict 
@@ -17,6 +20,3 @@ this is my comment from duaa
 Shukri-jallad
 
 Ahmadyousef (i added my name on line #8)
-
-
-
